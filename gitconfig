@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chevalierlucie81@gmail.com
+	name = Lucie Chevalier
